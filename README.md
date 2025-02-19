@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_cn.md)
+
 # Copilot Website
 
 A modern web application built with React, TypeScript, and Vite, featuring dark mode and internationalization support.
