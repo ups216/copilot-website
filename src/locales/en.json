@@ -1,0 +1,44 @@
+{
+  "translation": {
+    "hero": {
+      "title": "Your AI pair programmer",
+      "description": "GitHub Copilot uses OpenAI Codex to suggest code and entire functions in real-time, right from your editor",
+      "cta": "Start coding with Copilot"
+    },
+    "features": {
+      "codeCompletion": {
+        "title": "AI Code Completion",
+        "description": "Get suggestions for whole lines or entire functions instantly as you code"
+      },
+      "naturalLanguage": {
+        "title": "Natural Language to Code",
+        "description": "Turn comments into code by describing what you want to implement"
+      },
+      "learn": {
+        "title": "Learn as You Code",
+        "description": "Explore new frameworks and libraries with AI-powered suggestions"
+      }
+    },
+    "stats": {
+      "lines": {
+        "value": "1B+",
+        "label": "lines of code suggested"
+      },
+      "speed": {
+        "value": "40%",
+        "label": "faster code completion"
+      },
+      "languages": {
+        "value": "100+",
+        "label": "supported languages"
+      }
+    },
+    "languagesSection": {
+      "title": "Supported Languages & Frameworks"
+    },
+    "cta": {
+      "title": "Start coding smarter, not harder",
+      "button": "Try GitHub Copilot today"
+    }
+  }
+}

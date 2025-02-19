@@ -1,0 +1,44 @@
+{
+  "translation": {
+    "hero": {
+      "title": "你的AI配对程序员",
+      "description": "GitHub Copilot使用OpenAI Codex，直接在你的编辑器中实时提供代码和完整函数建议",
+      "cta": "开始使用Copilot"
+    },
+    "features": {
+      "codeCompletion": {
+        "title": "AI代码补全",
+        "description": "在编码时即时获得完整的代码行或函数建议"
+      },
+      "naturalLanguage": {
+        "title": "自然语言转代码",
+        "description": "通过描述需求直接将注释转换为代码"
+      },
+      "learn": {
+        "title": "边学边写代码",
+        "description": "借助AI建议探索新的框架和库"
+      }
+    },
+    "stats": {
+      "lines": {
+        "value": "1B+",
+        "label": "行代码建议"
+      },
+      "speed": {
+        "value": "40%",
+        "label": "更快的代码完成"
+      },
+      "languages": {
+        "value": "100+",
+        "label": "支持的编程语言"
+      }
+    },
+    "languagesSection": {
+      "title": "支持的语言和框架"
+    },
+    "cta": {
+      "title": "更智能的编码方式",
+      "button": "立即体验GitHub Copilot"
+    }
+  }
+}
